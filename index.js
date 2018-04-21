@@ -1,4 +1,4 @@
 // write your code below!
 function happyHoliday(){
-  return happyHoliday
+  return "Happy Holidays"
 }
